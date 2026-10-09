@@ -1,13 +1,13 @@
-# Projeto-Saas-Gestor-de-Validade-de-Documentos-e-Certificados
+# Projeto Saas - Gestor de Validade de Documentos e Certificados
 Desenvolvendo uma aplicação para coloca-la em uma VM
 
-# Micro-SaaS: Gestor de Validade de Documentos e Certificados
+## Micro-SaaS: Gestor de Validade de Documentos e Certificados
 
 Uma plataforma de **Micro-SaaS** voltada para prestadores de serviços, escritórios, clínicas e pequenas empresas que precisam controlar o vencimento de alvarás, certidões, contratos, CNHs e certificados digitais.
 
 ---
 
-## 🚀 Como Funciona
+### Como Funciona
 
 1. **Cadastro do Documento:** O usuário cadastra o documento e define a data de expiração.
 2. **Configuração de Alertas:** Define alertas automáticos progressivos (ex: 30, 15 e 7 dias antes do prazo).
